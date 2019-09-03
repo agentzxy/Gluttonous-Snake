@@ -1,0 +1,28 @@
+﻿  Snakes.cpp
+d:\different files\c++\snakes\snakes\snakes.cpp(48): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\different files\c++\snakes\snakes\snakes.cpp(68): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=double
+          ]
+d:\different files\c++\snakes\snakes\snakes.cpp(210): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=double
+          ]
+d:\different files\c++\snakes\snakes\snakes.cpp(215): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=double
+          ]
+d:\different files\c++\snakes\snakes\snakes.cpp(237): warning C4305: “初始化”: 从“int”到“char”截断
+d:\different files\c++\snakes\snakes\snakes.cpp(237): warning C4309: “初始化”: 截断常量值
+d:\different files\c++\snakes\snakes\snakes.cpp(245): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\different files\c++\snakes\snakes\snakes.cpp(253): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\different files\c++\snakes\snakes\snakes.cpp(272): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\different files\c++\snakes\snakes\snakes.cpp(281): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\different files\c++\snakes\snakes\snakes.cpp(290): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\different files\c++\snakes\snakes\snakes.cpp(299): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\different files\c++\snakes\snakes\snakes.cpp(316): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\different files\c++\snakes\snakes\snakes.cpp(324): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Snakes.vcxproj -> D:\different files\c++\Snakes\Debug\Snakes.exe
